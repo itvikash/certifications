@@ -15,4 +15,4 @@ completion certificates.
 
 ## Certificate
 
-[View Certificate](udemy Certificate.pdf)
+[View Certificate](./udemy%20Certificate.pdf)
